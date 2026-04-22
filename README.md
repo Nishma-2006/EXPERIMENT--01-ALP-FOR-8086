@@ -138,7 +138,7 @@ ret
 
 
 
-## Result :
+
  
 ## Output for arithmetic operations:
 
@@ -149,7 +149,8 @@ ret
 <img width="1919" height="1091" alt="Screenshot 2026-04-22 092326" src="https://github.com/user-attachments/assets/8f215038-5b7a-45f0-a96c-4e8b32164491" />
 
 
-
+## Result :
+Thus the program for ALP on fundamental arithmetic and logical operations using emu8086 was executed successfully.
 
 
 
